@@ -1,0 +1,9 @@
+Group Member  
+1. Tan Sin Zhung   1191100281
+2. Hooi Thing Hong 1191100283
+
+TASK DISTRUBUTION 
+1. Sorting and determining the highest point - 
+2. Dealing of cards and identify the winner in each round - 
+3. Sum of score and the overall flow of the game - 
+4. Others (specify)
